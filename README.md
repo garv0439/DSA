@@ -8,5 +8,8 @@ It serves as a resource for learning and practicing DSA concepts, including vari
 •Basics [sum / ifwhilefor / Typecasting / Prime / Temperature]
 <br>
 <br>
-#Day-2
+<h2>#Day-2</h2>
+<br>
 •Conditionals and Loops [ifelse / Loops / Largestamong3 / CaseCheck / fibonacci / Countnumbers / ReverseNum / Calculator]
+<br>
+<br>
