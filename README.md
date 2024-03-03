@@ -5,11 +5,11 @@ It serves as a resource for learning and practicing DSA concepts, including vari
 
 <h2>#Day-1</h2>
 <br>
-•Basics [sum / ifwhilefor / Typecasting / Prime / Temperature]
+•Basics [ Sum / ifwhilefor / Typecasting / Prime / Temperature ]
 <br>
 <br>
 <h2>#Day-2</h2>
 <br>
-•Conditionals and Loops [ifelse / Loops / Largestamong3 / CaseCheck / fibonacci / Countnumbers / ReverseNum / Calculator]
+•Conditionals and Loops [ If-else / Loops / Largestamong3 / CaseCheck / fibonacci / Countnumbers / ReverseNum / Calculator ]
 <br>
 <br>
