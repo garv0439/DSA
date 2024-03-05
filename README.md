@@ -15,4 +15,6 @@ It serves as a resource for learning and practicing DSA concepts, including vari
 <br>
 <h2>#Day-3</h2>
 <br>
-•Conditionals and Loops÷<br>[ If-else / Loops / Largestamong3 / CaseCheck / fibonacci / Countnumbers / ReverseNum / Calculator ]
+•Switch÷<br>[ switch-Case / Nestedswitch ]
+<br>
+<br>
