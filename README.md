@@ -3,6 +3,7 @@ This repository is dedicated to storing implementations, explanations, and exerc
 
 It serves as a resource for learning and practicing DSA concepts, including various algorithms and their implementations in different programming languages.
 <br>
+<br>
 <h2>#Day-1</h2>
 <br>
 •Basics÷<br> [ Sum / ifwhilefor / Typecasting / Prime / Temperature ]
