@@ -16,6 +16,3 @@ It serves as a resource for learning and practicing DSA concepts, including vari
 <br>
 <h2>#Day-3</h2>
 <br>
-•Switch÷<br>[ switch-Case / Nestedswitch ]
-<br>
-<br>
